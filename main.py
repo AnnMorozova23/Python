@@ -8,3 +8,7 @@ if result > number_2:
     print('hahahah')
 else:
     print('not hahahah')
+
+    name = 'Ann'
+    name_2 = 'Vika'
+
